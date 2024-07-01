@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Casa du Oris/Backyard/California Native Flowers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b23c0f97baf9e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Casa du Oris/Backyard/California Native Flowers.md",
+                "file": "Startup Ideas/Lightyear Space Industries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Casa du Oris/Backyard/California Native Flowers.md",
+            "file": "Startup Ideas/Lightyear Space Industries.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Casa du Oris/Backyard/California Native Flowers.md",
+            "file": "Startup Ideas/Lightyear Space Industries.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Casa du Oris/Backyard/California Native Flowers.md"
+            "file": "Startup Ideas/Lightyear Space Industries.md"
           }
         }
       }
@@ -156,17 +144,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b23c0f97baf9e37",
+  "active": "4ea23d032f944586",
   "lastOpenFiles": [
-    "Pasted image 20240630234032.png",
-    "Pasted image 20240630234003.png",
-    "Pasted image 20240630233818.png",
-    "Pasted image 20240630233434.png",
-    "Pasted image 20240630232647.png",
-    "Untitled.md",
-    "Casa du Oris/Backyard",
     "Casa du Oris/Backyard/California Native Flowers.md",
-    "Casa du Oris/Backyard/Pasted image 20240630232249.png",
+    "Untitled.md",
+    "Casa du Oris/Backyard/Images",
+    "Casa du Oris/Backyard/Images/Pasted image 20240630234032.png",
+    "Casa du Oris/Backyard/Images/Pasted image 20240630234003.png",
+    "Casa du Oris/Backyard/Images/Pasted image 20240630233818.png",
+    "Casa du Oris/Backyard/Images/Pasted image 20240630233434.png",
+    "Casa du Oris/Backyard/Images/Pasted image 20240630232647.png",
+    "Casa du Oris/Backyard",
+    "Casa du Oris/Backyard/Images/Pasted image 20240630232249.png",
     "Startup Ideas/Lightyear Space Industries.md",
     "Casa du Oris",
     "Startup Ideas"
