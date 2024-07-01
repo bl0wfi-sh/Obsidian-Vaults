@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ea23d032f944586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Casa du Oris/Backyard ideas!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b23c0f97baf9e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Startup Ideas/Lightyear Space Industries.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Startup Ideas/Lightyear Space Industries.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Startup Ideas/Lightyear Space Industries.md"
+            "file": "Untitled.md"
           }
         }
       }
@@ -131,9 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6f4eae2c692660c",
+  "active": "8b23c0f97baf9e37",
   "lastOpenFiles": [
-    "Startup Ideas",
-    "Startup Ideas/Lightyear Space Industries.md"
+    "Casa du Oris/Backyard ideas!.md",
+    "Untitled.md",
+    "Casa du Oris/Pasted image 20240630232249.png",
+    "Startup Ideas/Lightyear Space Industries.md",
+    "Casa du Oris",
+    "Startup Ideas"
   ]
 }
