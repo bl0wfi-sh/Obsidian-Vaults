@@ -17,5 +17,6 @@ General takeaways
 - Once the configuration is sorted out things work easily!
 - OpenOCD opens 3 local ports when it connects to the cpu
 	- 3333 - gdb remote target
-	- 
+	- 4444 - Telnet
+	- 6666 - unknown to me lol
 
