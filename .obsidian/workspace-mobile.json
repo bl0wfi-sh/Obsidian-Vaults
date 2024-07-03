@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Startup Ideas/Lightyear Space Industries.md",
+            "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Startup Ideas/Lightyear Space Industries.md",
+            "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Startup Ideas/Lightyear Space Industries.md"
+            "file": "Firmware Development/Debugging/Code coverage and Profiling.md"
           }
         }
       }
@@ -192,17 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6f4eae2c692660c",
+  "active": "76e9e1a62951b65f",
   "lastOpenFiles": [
-    "Firmware Development/Debugging/OpenOCD.md",
-    "Firmware Development/Debugging/Code coverage and Profiling.md",
     "Firmware Development/Debugging/Neovim + Gdb.md",
+    "Firmware Development/Debugging/Code coverage and Profiling.md",
+    "Startup Ideas/Lightyear Space Industries.md",
+    "Firmware Development/Debugging/OpenOCD.md",
     "Complex FFT's.md",
     "Firmware Development/CMSIS-DSP",
     "Casa du Oris/Backyard/California Native Flowers.md",
     "Firmware Development/Debugging",
     "Firmware Development",
-    "Startup Ideas/Lightyear Space Industries.md",
     "Casa du Oris/Backyard/Images",
     "Casa du Oris/Backyard/Images/Pasted image 20240630234032.png",
     "Casa du Oris/Backyard/Images/Pasted image 20240630234003.png",
