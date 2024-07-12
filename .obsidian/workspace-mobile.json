@@ -4,95 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3544942f9742c9f2",
+        "id": "bc8532814ead5d31",
         "type": "tabs",
         "children": [
           {
-            "id": "532bbf175cf945e7",
+            "id": "79dbd97b6d2a0cd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startup Ideas/Lightyear Space Industries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ea23d032f944586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Casa du Oris/Backyard/California Native Flowers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a108452e86d2dbf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d72c5a5fca77a428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firmware Development/Debugging/OpenOCD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3de1f1a4aee72b72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e9e1a62951b65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c9a311a2647438e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -186,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Firmware Development/Debugging/Code coverage and Profiling.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -201,19 +120,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c9a311a2647438e",
+  "active": "79dbd97b6d2a0cd7",
   "lastOpenFiles": [
     "Casa du Oris/Backyard/California Native Flowers.md",
-    "Real Estate/Property History Tools.md",
+    "Excalidraw/Test lol.md",
+    "Excalidraw",
     "Startup Ideas/Lightyear Space Industries.md",
     "Firmware Development/Debugging/Code coverage and Profiling.md",
+    "Firmware Development/Debugging/OpenOCD.md",
+    "Real Estate/Property History Tools.md",
     "Real Estate",
     "Firmware Development/CMSIS-DSP/Complex FFT's.md",
     "Firmware Development/Debugging/Neovim + Gdb.md",
-    "Firmware Development/Debugging/OpenOCD.md",
     "Firmware Development/CMSIS-DSP",
     "Firmware Development/Debugging",
     "Firmware Development",
