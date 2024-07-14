@@ -88,9 +88,21 @@
                 "file": "Excalidraw/Test lol.md"
               }
             }
+          },
+          {
+            "id": "1640082ce37f387b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RF Team Layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Test lol.md",
+            "file": "RF Team Layout.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Test lol.md",
+            "file": "RF Team Layout.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +197,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Test lol.md"
+            "file": "RF Team Layout.md"
           }
         }
       }
@@ -203,10 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c9a311a2647438e",
+  "active": "1640082ce37f387b",
   "lastOpenFiles": [
-    "Startup Ideas/Lightyear Space Industries.md",
     "Excalidraw/Test lol.md",
+    "RF Team Layout.md",
+    "Work Notes",
+    "Startup Ideas/Lightyear Space Industries.md",
     "/Startup Ideas/Lightyear Space Industries.md",
     "/Excalidraw/Test lol.md",
     "Excalidraw",
@@ -229,7 +243,6 @@
     "Casa du Oris/Backyard/Images/Pasted image 20240630232647.png",
     "Casa du Oris/Backyard",
     "Casa du Oris/Backyard/Images/Pasted image 20240630232249.png",
-    "Casa du Oris",
-    "Startup Ideas"
+    "Casa du Oris"
   ]
 }
