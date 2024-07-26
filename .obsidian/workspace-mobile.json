@@ -95,14 +95,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RF Team Layout.md",
+                "file": "Work Notes/RF Team Layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42896e09739d7d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vacation/El salvador trip.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RF Team Layout.md",
+            "file": "Vacation/El salvador trip.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "RF Team Layout.md",
+            "file": "Vacation/El salvador trip.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -197,7 +209,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "RF Team Layout.md"
+            "file": "Vacation/El salvador trip.md"
           }
         }
       }
@@ -215,12 +227,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1640082ce37f387b",
+  "active": "42896e09739d7d87",
   "lastOpenFiles": [
-    "Excalidraw/Test lol.md",
-    "RF Team Layout.md",
-    "Work Notes",
     "Startup Ideas/Lightyear Space Industries.md",
+    "Vacation/El salvador trip.md",
+    "Tattoo Ideas.md",
+    "Vacation",
+    "Work Notes/RF Team Layout.md",
+    "Excalidraw/Test lol.md",
+    "Work Notes",
     "/Startup Ideas/Lightyear Space Industries.md",
     "/Excalidraw/Test lol.md",
     "Excalidraw",
@@ -242,7 +257,6 @@
     "Casa du Oris/Backyard/Images/Pasted image 20240630233434.png",
     "Casa du Oris/Backyard/Images/Pasted image 20240630232647.png",
     "Casa du Oris/Backyard",
-    "Casa du Oris/Backyard/Images/Pasted image 20240630232249.png",
-    "Casa du Oris"
+    "Casa du Oris/Backyard/Images/Pasted image 20240630232249.png"
   ]
 }
