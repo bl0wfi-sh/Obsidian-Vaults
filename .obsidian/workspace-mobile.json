@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vacation/El salvador trip.md",
+                "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Vacation/El salvador trip.md",
+            "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Vacation/El salvador trip.md",
+            "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -209,7 +209,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Vacation/El salvador trip.md"
+            "file": "Firmware Development/Debugging/Code coverage and Profiling.md"
           }
         }
       }
@@ -229,8 +229,9 @@
   },
   "active": "42896e09739d7d87",
   "lastOpenFiles": [
-    "Startup Ideas/Lightyear Space Industries.md",
     "Vacation/El salvador trip.md",
+    "Firmware Development/Debugging/Code coverage and Profiling.md",
+    "Startup Ideas/Lightyear Space Industries.md",
     "Tattoo Ideas.md",
     "Vacation",
     "Work Notes/RF Team Layout.md",
@@ -240,7 +241,6 @@
     "/Excalidraw/Test lol.md",
     "Excalidraw",
     "/Excalidraw",
-    "Firmware Development/Debugging/Code coverage and Profiling.md",
     "Casa du Oris/Backyard/California Native Flowers.md",
     "Real Estate/Property History Tools.md",
     "Real Estate",
