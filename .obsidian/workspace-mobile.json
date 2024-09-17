@@ -112,9 +112,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "174a02625b021062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Radio Communication Theory/PSK Diagrams and how to use them.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c9aa65a2671fcbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symbol Timing Synchronization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -180,7 +204,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
+            "file": "Symbol Timing Synchronization.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,7 +221,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Firmware Development/Debugging/Code coverage and Profiling.md",
+            "file": "Symbol Timing Synchronization.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -209,7 +233,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Firmware Development/Debugging/Code coverage and Profiling.md"
+            "file": "Symbol Timing Synchronization.md"
           }
         }
       }
@@ -227,10 +251,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42896e09739d7d87",
+  "active": "2c9aa65a2671fcbc",
   "lastOpenFiles": [
-    "Vacation/El salvador trip.md",
+    "Radio Communication Theory/PSK Diagrams and how to use them.md",
+    "Symbol Timing Synchronization.md",
     "Firmware Development/Debugging/Code coverage and Profiling.md",
+    "Radio Communication Theory",
+    "Vacation/El salvador trip.md",
     "Startup Ideas/Lightyear Space Industries.md",
     "Tattoo Ideas.md",
     "Vacation",
@@ -256,7 +283,6 @@
     "Casa du Oris/Backyard/Images/Pasted image 20240630233818.png",
     "Casa du Oris/Backyard/Images/Pasted image 20240630233434.png",
     "Casa du Oris/Backyard/Images/Pasted image 20240630232647.png",
-    "Casa du Oris/Backyard",
     "Casa du Oris/Backyard/Images/Pasted image 20240630232249.png"
   ]
 }
