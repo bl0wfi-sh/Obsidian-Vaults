@@ -167,14 +167,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CubeSat Project.md",
+                "file": "GnuRadio 2024/CubeSat Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cfb7ab8f9ab1d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FIR filter design.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CubeSat Project.md",
+            "file": "FIR filter design.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -257,7 +269,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CubeSat Project.md",
+            "file": "FIR filter design.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -269,7 +281,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CubeSat Project.md"
+            "file": "FIR filter design.md"
           }
         }
       }
@@ -287,10 +299,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbd5263789a3807c",
+  "active": "9cfb7ab8f9ab1d55",
   "lastOpenFiles": [
+    "GnuRadio 2024/CubeSat Project.md",
+    "FIR filter design.md",
     "GnuRadio 2024/Gnu Radio Project.md",
-    "CubeSat Project.md",
     "GnuRadio 2024/Oak Ridge Super Computers.md",
     "Symbol Timing Synchronization.md",
     "GnuRadio 2024",
